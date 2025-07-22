@@ -41,3 +41,12 @@ Quando você digita uma pergunta:
 ° Lembrar do que foi conversado.
 ° Receber suas perguntas e dar respostas.
 É como ter um amigo virtual que pode conversar com você sobre diversos assuntos!
+
+# Critério
+  Ter uma conta Gmail
+  
+Criar API KEY 
+Documentação em: https://ai.google.dev/gemini-api/docs?hl=pt-br
+
+Acessar Colab
+https://colab.google/
